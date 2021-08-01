@@ -1,1 +1,1 @@
-# slp
+# small learning projects
