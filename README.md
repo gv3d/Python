@@ -1,1 +1,2 @@
 # small learning projects
+python
