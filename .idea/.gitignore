@@ -128,8 +128,4 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-<<<<<<< HEAD
 .pyre/
-=======
-.pyre/
->>>>>>> 42a2980 (2)

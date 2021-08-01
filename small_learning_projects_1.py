@@ -10,7 +10,6 @@ from random import randint
 print('Добро пожаловать в числовую угадайку!')#, 'n_rand =', n_rand)
 print('АІ должен выбрать число от 1 до N, которое вам предстоит угадать.')
 
-
 def is_valid(n):
     return n.isdigit() and 1 <= int(n) <= int(right)  # проверка числа на корректность
 
