@@ -49,7 +49,7 @@ lang_cod = lang_is_valid(input('Для использывания русског
 step = step_is_valid(input('Укажите "шаг сдвига" (целое число): '))
 text = input('Теперь введите текст: ').replace('ё', 'е').replace('Ё', 'Е')
 
-def ё(cod_dec, lang_cod, step, text):
+def cesars_code(cod_dec, lang_cod, step, text):
     alp = 'абвгдежзийклмнопрстуфхцчшщъыьэюя'
     alp_en = 'abcdefghijklmnopqrstuvwxyz'
     ansv = list()
