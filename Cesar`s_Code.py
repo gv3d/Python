@@ -47,7 +47,7 @@ def lang_is_valid(s): # проверка вводимого символа (ru/e
 cod_dec = cod_decod_is_valid(input('Будем шифровать(+) или розшифровывать(-)? Введите + или - : '))
 lang_cod = lang_is_valid(input('Для использывания русского алфавита введите ru для английского введите en : '))
 step = step_is_valid(input('Укажите "шаг сдвига" (целое число): '))
-text = input('Теперь введите текст: ').replace('ё', 'е').replace('Ё', 'Е')
+text = input('Теперь введите текст: ').replace('е', 'ё').replace('Е', 'Ё')
 
 def cesars_code(cod_dec, lang_cod, step, text):
     alp = 'абвгдежзийклмнопрстуфхцчшщъыьэюя'
