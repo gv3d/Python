@@ -19,3 +19,10 @@ with open('data_test.txt', 'a') as tw:
 
 path = os.path.join(as.path.abspath(os.path.dirname(__file__)), 'data_test.txt')
 os.remove(path)
+
+
+with open('data_test_2.txt', 'wt', encoding='utf-8') as inFile:
+    num = int(input())
+    line = str('1 / ' + str(num) + ' = ' + str(1 / num))
+    print(line)
+    inFile.write (line)
