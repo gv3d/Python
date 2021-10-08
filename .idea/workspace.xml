@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7702436-ec5b-4230-ac67-de318779b65a" name="Changes" comment="+ add data_test_2.txt">
+    <list default="true" id="e7702436-ec5b-4230-ac67-de318779b65a" name="Changes" comment="alarm clock">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip-3.8.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pip3.8.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pip3.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +19,8 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -242,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629744008065</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="alarm clock">
+      <created>1633283076685</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1633283076685</updated>
+    </task>
+    <task id="LOCAL-00012" summary="alarm clock">
+      <created>1633283087730</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1633283087730</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +276,7 @@
     <MESSAGE value="cesar's_code&#10;(убрал помарки)" />
     <MESSAGE value="import os" />
     <MESSAGE value="+ add data_test_2.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ add data_test_2.txt" />
+    <MESSAGE value="alarm clock" />
+    <option name="LAST_COMMIT_MESSAGE" value="alarm clock" />
   </component>
 </project>
