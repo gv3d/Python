@@ -1,8 +1,11 @@
 # Learning projects on Python
 
+pinkod.py – функція генерує пінкод з цифр від 0 до 9 довжиною "value" і зберігає список у файл my_pinkod.txt (необходні модулі random та typing: pip install random, typing)
+___
 
 alarmclock.py - будильник на Python (необходні модулі playsound та datetime: pip install playsound, datetime)
-alarm.mp3
+
+alarm.mp3 – файл мелодії будильника
 ___
 
 Cesar`s_Code.py – программа, может шифровать и дешифровать текст в соответствии с алгоритмом Цезаря.
